@@ -1,7 +1,6 @@
 http://www.freetheslaves.net/Page.aspx?pid=375
 --world map
 
-
 http://www.handsacrosstheworldmn.org/resources/Human+Trafficking+Statistics.pdf
 --overview of statistics
 
@@ -20,3 +19,9 @@ http://digital.library.unt.edu/ark:/67531/metadc177256/m1/1/
 
 http://www-958.ibm.com/software/data/cognos/manyeyes/datasets?tag=trafficking&sort=rating
 --potential source of data
+
+https://www.innocentlivesfoundation.org/
+--narrative of the challenge and consequences.
+
+https://www.state.gov/j/tip/rls/tiprpt/2018/
+--Trafficking in Persons Report 2018
